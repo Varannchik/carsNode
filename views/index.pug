@@ -2,10 +2,16 @@ extends layout
 
 block content
   h1= title
-  p Welcome to #{title}
+  
   #car
     input(type="text" placeholder="model" id='model' name='model')
     input(type="number" placeholder="price" id='price' name='price')
     input(type="text" placeholder="url picture" id='picture' name='picture')
     button(type="submit" id='submit') Send  
-  script(src="javascripts/main.js") 
+
+
+  #model 
+  #price
+  #picture   
+  
+  script(src="javascripts/main.js")

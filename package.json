@@ -1,5 +1,5 @@
 {
-  "name": "home1508",
+  "name": "h15",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -13,9 +13,9 @@
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11"
   },
-  "description": "home 1508",
   "main": "app.js",
   "devDependencies": {},
   "author": "Anna",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
